@@ -174,4 +174,5 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
-lab02/
+
+lab02/chapter10/bc_card_out2020_03.txt
